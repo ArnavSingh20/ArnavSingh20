@@ -1,7 +1,6 @@
 <h2 align="left">Hi, I’m Arnav Singh<br>Exploring Data Science, AI/ML & Deep Learning<br>Currently working on projects in CNNs, Python & Web Apps</h2>
 
 ###
-
 <div align="center">
 </div>
 
