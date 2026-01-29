@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
+  <img src="[https://cdn.simpleicons.org/canva/00C4CC](https://logohistory.net/wp-content/uploads/2023/07/Canva-Emblem.png)" height="30" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css/1572B6" height="30" alt="css logo"  />
   <img width="12" />
