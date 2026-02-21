@@ -33,8 +33,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/r/276DC3" height="30" alt="r logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="30" alt="salesforce logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
